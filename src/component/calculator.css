@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+    width: 25%;
+    height: 280px;
+    margin: 0 auto;
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .no-zero-class {
+    flex: 1 25%;
+  }
+
+  .zero-class {
+    flex-basis: 50%;
+  }
+
+  .operator {
+    background-color: #ff8533;
+  }
+
+  .wrapper button {
+    border: 1px solid #d4ecdd;
+  }
+
+  .top {
+    display: flex;
+    justify-content: end;
+    text-align: right;
+    background-color: #707075;
+    border: none;
+    color: #fff;
+    margin: 0 auto;
+    width: 25%;
+    height: 40px;
+    align-items: center;
+    padding-right: 10px;
+    border: 1px solid #707075;
+  }
