@@ -1,8 +1,7 @@
-/* eslint-disable react/prefer-stateless-function */
-import React, { Component } from 'react';
+import React from 'react';
 import Calculator from './component/calculator';
 
-class App extends Component {
+class App extends React.PureComponent {
   render() {
     return (
       <Calculator />
