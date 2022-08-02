@@ -29,7 +29,7 @@
 
 .top {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   text-align: right;
   background-color: #707075;
   border: none;
