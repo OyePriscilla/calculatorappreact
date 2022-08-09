@@ -1,0 +1,15 @@
+.divClass {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: left;
+  color: #707075;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: justify;
+}
