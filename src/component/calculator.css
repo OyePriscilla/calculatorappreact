@@ -3,7 +3,7 @@
 }
 
 .wrapper {
-  width: 25%;
+  width: 65%;
   height: 280px;
   margin: 0 auto;
   background-color: blueviolet;
@@ -35,7 +35,7 @@
   border: none;
   color: #fff;
   margin: 0 auto;
-  width: 25%;
+  width: 65%;
   height: 40px;
   align-items: center;
   padding-right: 10px;
