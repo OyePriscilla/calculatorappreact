@@ -17,9 +17,11 @@ function Calculator() {
   };
 
   return (
-    <div style={{
-      display: 'flex', justifyContent: 'spaceEvenly', margin: '50px',
-    }}
+    <div
+      data-testid="calc"
+      style={{
+        display: 'flex', justifyContent: 'spaceEvenly', margin: '50px',
+      }}
     >
       <div style={{ fontSize: '24px', fontWeight: '900', marginLeft: '120px' }}>Let&apos;s do some math!</div>
       <div className="container">

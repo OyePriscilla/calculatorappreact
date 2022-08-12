@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component testing with snapshot renders correctly 1`] = `
+<div
+  data-testid="calc"
+  style={
+    Object {
+      "display": "flex",
+      "justifyContent": "spaceEvenly",
+      "margin": "50px",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "fontSize": "24px",
+        "fontWeight": "900",
+        "marginLeft": "120px",
+      }
+    }
+  >
+    Let's do some math!
+  </div>
+  <div
+    className="container"
+  >
+    <div
+      className="top"
+      onChange={[Function]}
+    >
+      0
+    </div>
+    <div
+      className="wrapper"
+    >
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="no-zero-class operator"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="no-zero-class operator"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="no-zero-class operator"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="no-zero-class operator"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="no-zero-class"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="no-zero-class operator"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`App component testing with snapshot renders correctly 2`] = `
+<div
+  className="divClass"
+>
+  <h2>
+    Welcome to Calculator App Page!
+  </h2>
+  <p>
+    This calculator can be used to do basic arithemetic operations like addition, subtraction, division, multiplication e.t.c. Do your calculation anywhere and anytime of the day! Feel free to use it.
+  </p>
+</div>
+`;
+
+exports[`App component testing with snapshot renders correctly 3`] = `
+<div>
+  <p
+    style={
+      Object {
+        "fontWeight": "600",
+        "margin": "230px 40px",
+      }
+    }
+  >
+    Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. -William Paul Thurston
+  </p>
+</div>
+`;
